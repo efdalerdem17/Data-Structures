@@ -25,9 +25,9 @@ This homework implements a point quadtree for efficient storage and querying of 
 
 # Query Operations
 
-**Insert:** Add new cities with coordinates
-**Search:** Find cities within specified radius
-**Pretty Print:** Visualize the tree structure
+- **Insert:** Add new cities with coordinates
+- **Search:** Find cities within specified radius
+- **Pretty Print:** Visualize the tree structure
 
 # Homework 3: Image Detection with HashTable
 # Purpose
